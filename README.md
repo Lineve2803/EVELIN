@@ -35,5 +35,4 @@ Package Manager: npm 8.19.2
 
 OS: win32 x64
 
-MongoDB Atlas versión de prueba (Nota: Dada la limitación de almacenamiento en la base de datos y considerando que estamos utilizando la versión de prueba de MongoDB Atlas, esta base de datos se ha empleado exclusivamente para este proyecto, cumpliendo satisfactoriamente con su propósito. Como una mejora significativa en esta evaluación, se podría perfeccionar el acceso a la base de datos mediante la implementación de un método más seguro de autenticación.)![image](https://github.com/Lineve2803/EVELIN/assets/156629773/a4f9ce34-a112-4f55-9fff-1799dd99c1fd)
-
+MongoDB Atlas versión de prueba (Nota: Dada la limitación de almacenamiento en la base de datos y considerando que estamos utilizando la versión de prueba de MongoDB Atlas, esta base de datos se ha empleado exclusivamente para este proyecto, cumpliendo satisfactoriamente con su propósito. Como una mejora significativa en esta evaluación, se podría perfeccionar el acceso a la base de datos mediante la implementación de un método más seguro de autenticación.)
